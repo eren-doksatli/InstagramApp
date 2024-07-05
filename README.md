@@ -1,3 +1,3 @@
-##InstagramApp
+## InstagramApp
 
 ![](Instagram-App.gif)
